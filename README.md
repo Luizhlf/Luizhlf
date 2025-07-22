@@ -3,7 +3,7 @@
 - 🌱 📚 Estudando
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=luizhlf&show_icons=true&theme=merko"/>
+    srcset="https://github-readme-stats.vercel.app/api?username=luizhlf&show_icons=true&theme=gruvbox"/>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=luizhlf&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
