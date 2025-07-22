@@ -1,7 +1,6 @@
 ## Olá meu nome é Luiz Henrique 👋
 
-- 🔭 🚀 Trabalhando ? ...
-- 🌱 📚 Estudando C++
+- 🌱 📚 Estudando
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=luizhlf&show_icons=true&theme=dark"/>
