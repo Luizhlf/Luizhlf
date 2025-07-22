@@ -2,7 +2,7 @@
 
 - 🌱 📚 Estudando
 <div style="display: flex; gap: 20px; align-items: center;">
- <a href="https://github.com/Luizhlf">
+ <a href="#">
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luizhlf&show_icons=true&theme=dark" />
  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhlf&hide_progress=true&theme=dark" />
 </div>
