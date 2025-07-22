@@ -4,7 +4,7 @@
 <div>
  <a href="#">
  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luizhlf&show_icons=true&theme=dark" />
- <img height="170em" width="50%" style="padding: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhlf&hide_progress=true&theme=dark" />
+ <img height="170em" width="52%" style="padding: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhlf&hide_progress=true&theme=dark" />
 </div>
 <div style="display: inline-block;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
