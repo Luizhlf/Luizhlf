@@ -2,8 +2,8 @@
 - 🌱 📚 Estudando
 <div>
  <a href="#">
- <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api?username=luizhlf&show_icons=true&theme=dark" />
- <img height="170em" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizhlf&hide_progress=true&theme=dark" />
+ <img height="170em" width="40%" src="https://github-readme-stats.vercel.app/api?username=Luizhlf&show_icons=true&theme=dark" />
+ <img height="170em" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizhlf&hide_progress=true&theme=dark" />
 </div>
 <div style="display: inline-block;">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
