@@ -1,5 +1,5 @@
-## Olá meu nome é Luiz Henrique 👋
-- 🌱 📚 Estudando
+//## Olá meu nome é Luiz Henrique 👋
+//- 🌱 📚 Estudando
 <!-- <div>
  <a href="#">
  <img height="170em" <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Luizhlf&show_icons=true&theme=dark&title_color=ffffff" />
@@ -10,7 +10,7 @@
 <h1 align="center">Olá 👋 Eu sou Luiz</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack • Linux • Node.js
+  Estudante de tecnologia
 </p>
 
 ---
