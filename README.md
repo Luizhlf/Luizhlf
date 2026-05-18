@@ -12,6 +12,8 @@
   Estudante de tecnologia
 </p>
 
+---
+
 ## 🚀 Tecnologias
 
 <p align="center">
